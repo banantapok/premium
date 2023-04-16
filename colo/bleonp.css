@@ -39,7 +39,7 @@ h4{
         .aymenu {
             position: fixed;
             z-index: 1;
-            width: 300px;
+            width: 285px;
             height: 280px;
             top: calc(50% - 180px);
             left: calc(50% - 180px);
