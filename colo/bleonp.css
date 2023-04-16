@@ -37,7 +37,7 @@ h4{
         }
 
         .aymenu {
-            position: fixed;
+            position: center;
             z-index: 1;
             width: 335px;
             height: 310px;
