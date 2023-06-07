@@ -42,7 +42,7 @@ h4{
             width: 400px;
             height: 280px;
             top: calc(50% - 180px);
-            left: calc(50% - 180px);
+            left: calc(50% - 120px);
             z-index: 999;
             opacity: .9;
             background-color: #252226;
